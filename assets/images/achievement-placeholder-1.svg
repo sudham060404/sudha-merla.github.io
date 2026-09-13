@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#dfe3ea"/>
+  <rect x="120" y="60" width="240" height="180" rx="8" fill="#ffffff" stroke="#b9c2d0" stroke-width="4"/>
+  <circle cx="240" cy="120" r="30" fill="#d68910"/>
+  <polygon points="240,150 260,210 240,195 220,210" fill="#d68910"/>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="16" fill="#5c6470" text-anchor="middle">Award / Certificate Placeholder</text>
+</svg>

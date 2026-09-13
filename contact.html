@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Me | Sudha Merla</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="contact">
+
+  <div id="site-header"></div>
+
+  <main>
+    <div class="page-header container">
+      <h1>Contact Me</h1>
+    </div>
+
+    <section>
+      <div class="container contact-grid">
+
+        <div>
+          <h2>Get in Touch</h2>
+          <ul class="contact-info-list">
+            <li><strong>Email:</strong> <a href="mailto:sudhamerla46@gmail.com">sudhamerla46@gmail.com</a></li>
+            <li><strong>Email (NUS):</strong> <a href="mailto:sudha.merla@u.nus.edu">sudha.merla@u.nus.edu</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sudha-merla" target="_blank" rel="noopener">linkedin.com/in/sudha-merla</a></li>
+            <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=PwxzJtMAAAAJ&hl=en" target="_blank" rel="noopener">View Profile</a></li>
+            <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0002-0385-0177" target="_blank" rel="noopener">0009-0002-0385-0177</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h2>Send a Message</h2>
+          <!--
+            This form uses a mailto: action, which opens the visitor's
+            default email client pre-filled with their message (no backend
+            needed). If you'd rather use a real form backend (e.g. Formspree,
+            Netlify Forms), replace the "action" attribute accordingly.
+          -->
+          <form class="contact-form" action="mailto:sudhamerla46@gmail.com" method="POST" enctype="text/plain">
+            <div>
+              <label for="name">Name</label>
+              <input type="text" id="name" name="Name" required />
+            </div>
+            <div>
+              <label for="email">Your Email</label>
+              <input type="email" id="email" name="Email" required />
+            </div>
+            <div>
+              <label for="message">Message</label>
+              <textarea id="message" name="Message" required></textarea>
+            </div>
+            <button class="btn" type="submit">Send Message</button>
+          </form>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="js/components.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

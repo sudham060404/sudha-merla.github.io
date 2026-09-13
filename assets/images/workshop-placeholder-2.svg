@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#dfe3ea"/>
+  <rect x="120" y="60" width="240" height="180" rx="8" fill="#ffffff" stroke="#b9c2d0" stroke-width="4"/>
+  <rect x="150" y="90" width="180" height="14" fill="#2f4b7c"/>
+  <rect x="150" y="120" width="180" height="10" fill="#c3ccd9"/>
+  <rect x="150" y="140" width="180" height="10" fill="#c3ccd9"/>
+  <rect x="150" y="160" width="120" height="10" fill="#c3ccd9"/>
+  <circle cx="290" cy="200" r="16" fill="#2f4b7c"/>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="16" fill="#5c6470" text-anchor="middle">Workshop Certificate Placeholder 2</text>
+</svg>

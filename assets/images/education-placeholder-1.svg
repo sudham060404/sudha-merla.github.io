@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#dfe3ea"/>
+  <rect x="40" y="120" width="400" height="140" fill="#c3ccd9"/>
+  <polygon points="240,60 420,140 60,140" fill="#a8b3c4"/>
+  <rect x="220" y="140" width="40" height="60" fill="#dfe3ea"/>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="16" fill="#5c6470" text-anchor="middle">Education / Campus Photo Placeholder</text>
+</svg>
